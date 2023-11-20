@@ -1,0 +1,6 @@
+{
+  "parent": "myfirstmod:block/jadium_block",
+  "textures": {
+    "layer0": "myfirstmod:item/jadium_block"
+  }
+}
