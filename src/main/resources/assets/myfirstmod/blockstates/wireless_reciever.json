@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model":"myfirstmod:block/wireless_reciever"},
+    "facing=west": {"model":"myfirstmod:block/wireless_reciever","y": 270},
+    "facing=south": {"model":"myfirstmod:block/wireless_reciever","y": 180},
+    "facing=east": {"model":"myfirstmod:block/wireless_reciever","y": 90}
+  }
+}

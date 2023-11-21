@@ -1,6 +1,8 @@
 {
   "item.myfirstmod.jade": "Jade",
   "block.myfirstmod.jadium_block": "Jadium Block",
-  "itemgroup.test": "This is a test item group"
+  "itemgroup.test": "This is a test item group",
+  "item.myfirstmod.wireless_scanner": "Wireless scanner",
+  "block.myfirst.mod.wireless_reciever": "Wireless Reciever"
 
 }

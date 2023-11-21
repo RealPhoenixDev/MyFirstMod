@@ -17,6 +17,7 @@ public class ModItemGroup {
             .entries((displayContext, entries) -> {
                 entries.add(ModItems.Jade);
                 entries.add(ModItems.Jadium_Block);
+                entries.add(ModItems.Wireless_scanner);
             }).build();
 
     private static ItemGroup registerItemGroup(String name, ItemGroup item) {

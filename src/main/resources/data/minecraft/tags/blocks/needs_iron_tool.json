@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "myfirstmod:jadium_block"
+    "myfirstmod:jadium_block",
+    "myfirstmod:wireless_reciever"
   ]
 }
