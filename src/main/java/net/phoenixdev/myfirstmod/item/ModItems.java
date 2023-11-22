@@ -24,7 +24,7 @@ public class ModItems {
     public static final Block Jadium_Block = registerBlocks("jadium_block",new JadiumBlock(
             FabricBlockSettings.create().mapColor(MapColor.IRON_GRAY).instrument(Instrument.IRON_XYLOPHONE).requiresTool().strength(5.0f, 6.0f).sounds(BlockSoundGroup.METAL)));
     public static final Item Wireless_scanner = registerItems("wireless_scanner", new Wireless_Scanner(new FabricItemSettings()));
-    public static final Block Wireless_reciever = registerBlocks("wireless_reciever", new Wireless_Reciever(FabricBlockSettings.copyOf(Blocks.AMETHYST_BLOCK)));
+    public static final Block Wireless_reciever = registerBlocks("wireless_reciever", new Wireless_Reciever(FabricBlockSettings.copyOf(Blocks.AMETHYST_BLOCK).nonOpaque()));
 
 
     private static void addToRedstoneTab(FabricItemGroupEntries entry) {
